@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Najla a student in Computer information systems who is trying to become the best Data Scientist ever😊
+Hello, I'm Najla, and I am attempting to become the best Data Scientist ever 😊
 
 
 ## 🌐 Socials:
