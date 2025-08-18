@@ -9,6 +9,12 @@
 ## Socials 🌐:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/najlayasm) 
 
+## 🚀 Featured Projects
+-  [Tibyaan](https://github.com/yourrepo) – Quran learning app for kids using speech recognition 📖.
+-  [Gharsa](https://github.com/njlym/GHARSA) – AI-powered system for plant identification & soil analysis 🌱. 
+-  [SAAT](https://github.com/yourrepo) – Exam prep system that analyzes answers & recommends resources 📝.  
+-  [Loan Default Prediction](https://github.com/yourrepo) – ML model for predicting loan default probabilities 💳.
+
 
 
 # Tech Stack 💻:
