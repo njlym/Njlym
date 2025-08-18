@@ -12,7 +12,7 @@
 ##  Projects & Tasks 🚀
 
 ###  Featured Projects 🌟
--   **Tibyaan** –  AI-powered app to help children memorize and recite the Qur'an. The app provides **audio correction feedback**, **simplified verse interpretations**, a **reward system**, and **parental tracking features** to enhance Quranic education and self-learning 📖.
+-   **Tibyaan** –  AI-powered app to help children memorize and recite the Qur'an. The app provides audio correction feedback, simplified verse interpretations, a reward system, and parental tracking features to enhance Quranic education and self-learning 📖.
 -  **[Gharsa](https://github.com/njlym/GHARSA)** – Smart AI assistant for plant identification, soil analysis, and disease detection 🌱.
 -  **SAAT** – Exam prep system that analyzes answers & recommends learning resources and generate more questions  📝. 
 -  **Loan Default Prediction** – Machine learning model for predicting loan default probabilities 💳.  
@@ -21,7 +21,7 @@
 
 ---
 
-### 🧩 Other Projects
+###  Other Projects 🧩
 -  **[CommitMate](https://github.com/njlym/CommitMate)** – Chatbot assistant for Git commands & workflow 🤖.
 -  **[Transfer Learning with EfficientNet](https://github.com/njlym/Transfer-Learning-using-EfficientNet)** – Multiple experiments (feature extraction + fine-tuning) to improve image classification 🍽️ .
 -  **[Cat vs Dog Classification](https://github.com/njlym/Cat-vs-Dog-CNN)** – CNN model for classifying images of cats and dogs 🐱🐶 .
