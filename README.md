@@ -11,7 +11,7 @@
 
 ## 🚀 Featured Projects
 -  [Tibyaan](https://github.com/yourrepo) – Quran learning app for kids using speech recognition 📖.
--  [Gharsa](https://github.com/njlym/GHARSA) – AI-powered system for plant identification & soil analysis 🌱. 
+-  [Gharsa](https://github.com/njlym/GHARSA) – Smart AI assistant built for beginners and plant lovers who want to grow with confidence — whether they’re exploring a new plant, checking soil quality, or spotting signs of disease. No expertise needed — just a photo 🌱. 
 -  [SAAT](https://github.com/yourrepo) – Exam prep system that analyzes answers & recommends resources 📝.  
 -  [Loan Default Prediction](https://github.com/yourrepo) – ML model for predicting loan default probabilities 💳.
 
