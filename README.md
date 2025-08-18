@@ -2,20 +2,34 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Hello%20from%20Najla!&color=gradient&height=100" alt="header"/>
 </p>
 
-### ​​​ I am Najla — a curious AI & Data enthusiast smashing problems with code.
+### ​​​ I am Najla Almarshde — a curious AI & Data enthusiast smashing problems with code.
 
 ---
 
 ## Socials 🌐:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/najlayasm) 
 
-## 🚀 Featured Projects
--  [Tibyaan](https://github.com/yourrepo) – Quran learning app for kids using speech recognition 📖.
--  [Gharsa](https://github.com/njlym/GHARSA) – Smart AI assistant built for beginners and plant lovers who want to grow with confidence — whether they’re exploring a new plant, checking soil quality, or spotting signs of disease. No expertise needed — just a photo 🌱. 
--  [SAAT](https://github.com/yourrepo) – Exam prep system that analyzes answers & recommends resources 📝.  
--  [Loan Default Prediction](https://github.com/yourrepo) – ML model for predicting loan default probabilities 💳.
+##  Projects & Tasks 🚀
 
+###  Featured Projects 🌟
+-   **Tibyaan** –  AI-powered app to help children memorize and recite the Qur'an. The app provides **audio correction feedback**, **simplified verse interpretations**, a **reward system**, and **parental tracking features** to enhance Quranic education and self-learning 📖.
+-  **[Gharsa](https://github.com/njlym/GHARSA)** – Smart AI assistant for plant identification, soil analysis, and disease detection 🌱.
+-  **SAAT** – Exam prep system that analyzes answers & recommends learning resources and generate more questions  📝. 
+-  **Loan Default Prediction** – Machine learning model for predicting loan default probabilities 💳.  
+-  **[Fitness Vision](https://github.com/njlym/FitnessVision)** – ML-powered system that recommends workouts & generates personalized exercise plans (includes ExerciseDB API integration + calories calculator) 🏋️.  
+-  **[Mimotion](https://github.com/njlym/mimotion)** – Facial emotion recognition app trained on FER-2013 dataset using deep learning 😀.   
 
+---
+
+### 🧩 Other Projects
+-  **[CommitMate](https://github.com/njlym/CommitMate)** – Chatbot assistant for Git commands & workflow 🤖.
+-  **[Transfer Learning with EfficientNet](https://github.com/njlym/Transfer-Learning-using-EfficientNet)** – Multiple experiments (feature extraction + fine-tuning) to improve image classification 🍽️ .
+-  **[Cat vs Dog Classification](https://github.com/njlym/Cat-vs-Dog-CNN)** – CNN model for classifying images of cats and dogs 🐱🐶 .
+-  **[Tic-Tac-Toe with NumPy](https://github.com/njlym/Tic-Tac-Toe-Game-with-NumPy)** – Classic game with both 2-player and AI modes using NumPy logic 🎮.  
+
+---
+
+ *And more !!* ✨
 
 # Tech Stack 💻:
 ## Data & AI
